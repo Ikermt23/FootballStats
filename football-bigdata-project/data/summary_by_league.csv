@@ -1,6 +1,6 @@
-Comp,jugadores,goles_media,asistencias_media,xG_media,GA_media,valor_medio_M,pct_over_xG
-Bundesliga,184,4.29,4.28,4.26,8.57,77.26,56.0
-La Liga,194,5.34,4.59,4.61,9.93,88.7,59.0
-Ligue 1,192,5.16,4.34,5.24,9.49,84.79,51.0
-Premier League,196,4.38,4.21,4.02,8.6,75.69,60.0
-Serie A,192,4.18,3.83,3.78,8.02,74.3,53.0
+Comp,jugadores,goles_media,xG_media,GA_media,valor_medio_M,pct_over_xG
+de Bundesliga,404,2.3,2.23,3.96,40.49,39.0
+eng Premier League,464,2.33,2.37,4.04,41.62,33.0
+es La Liga,487,1.99,2.04,3.36,38.03,33.0
+fr Ligue 1,430,2.05,2.15,3.46,38.57,31.0
+it Serie A,512,1.82,1.82,3.12,35.58,34.0
